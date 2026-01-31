@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tavva Amruth Chenchu Rajesh</h1>
-<h3 align="center">Data Engineer | Databricks | PySpark | Apache Airflow | AWS | Fabric</h3>
+<h3 align="center">🚀 Data Engineer | Databricks | PySpark | Apache Airflow | AWS | Fabric</h3>
 
 
 
@@ -46,5 +46,4 @@ Power BI
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarthackerpro&label=Profile%20views&color=0e75b6&style=flat" alt="smarthackerpro" /> </p>
