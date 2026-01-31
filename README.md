@@ -1,4 +1,4 @@
-!(Blue And Purple Professional Technology LinkedIn Banner.png)
+![Enterprise Databricks + Airflow Medallion Architecture](Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Tavva Amruth Chenchu Rajesh</h1>
 <h3 align="center">🚀 Data Engineer | Databricks | PySpark | Apache Airflow | AWS | Fabric</h3>
